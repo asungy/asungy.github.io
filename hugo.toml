@@ -1,0 +1,19 @@
+baseURL = 'https://asungy.github.io/'
+languageCode = 'en-us'
+title = 'Alek Sung'
+
+[module]
+[[module.imports]]
+  path = 'github.com/LordMathis/hugo-theme-nightfall'
+
+[params]
+user = "asungy"
+hostname = "github.io"
+
+[params.author]
+name = "Alek Sung"
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/asungy"
