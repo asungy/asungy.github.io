@@ -1,0 +1,17 @@
+user = "asungy"
+hostname = "github.io"
+published = true
+readingTime = false
+footerHtml = '© 2024 Alek Sung'
+
+[author]
+name = "Alek Sung"
+
+[styles]
+color = "#b073ff"
+
+[[social]]
+key = 0
+name = "github"
+url = "https://github.com/asungy"
+
