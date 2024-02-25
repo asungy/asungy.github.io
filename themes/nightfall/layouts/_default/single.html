@@ -18,9 +18,6 @@
 
 <div class="postWrapper">
     <h1>{{ .Title }}</h1>
-    {{ if .Description}}
-    	<p>{{.Description}}</p>
-    {{ end }}
     {{ if .Params.showMetadata | default true }}
     <section class="postMetadata">
         <dl>

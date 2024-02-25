@@ -4,6 +4,16 @@
 
 {{ define "main" }}
 
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['\\[', '\\]'], ['$$', '$$']],  // block
+      inlineMath: [['\\(', '\\)']]                  // inline
+    }
+  };
+</script>
+
 <div>
     <div class="listHeader">
         <h1>{{ .Title }}</h1>
@@ -27,7 +37,7 @@
                     <time class="postDate" datetime="{{ $formattedDate }}">{{ .Date | time.Format ":date_long" }}</time>
                 </div>
                 <div class="postExcerpt">
-                    <p>{{ .Summary }}</p>
+                    <p>{{ .Description }}</p>
                 </div>
             </div>
         </a>
