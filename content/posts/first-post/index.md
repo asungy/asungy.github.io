@@ -31,6 +31,8 @@ $$
 a^*=x-b^*
 $$
 
+![Image alt](CreateCircle.gif)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse faucibus leo non est feugiat ullamcorper. Curabitur pharetra lectus non arcu auctor vestibulum. Aenean lacinia, justo ac iaculis eleifend, lacus odio blandit massa, porttitor euismod lectus tellus eu elit. Ut in elementum magna. Nunc vitae lacinia felis. Proin lobortis libero quis ex ultricies rhoncus. Vivamus lacus ipsum, mattis at mollis quis, hendrerit vulputate ipsum. Morbi porta pulvinar justo, vel tempor dui vestibulum vitae. Maecenas justo lorem, maximus a nulla a, porttitor convallis ligula. Proin nisl massa, gravida at eros ut, convallis porttitor magna. Nunc auctor porta ante porttitor gravida. Phasellus scelerisque, risus quis blandit lobortis, purus neque tristique ex, et rutrum erat tellus in nisl. Sed suscipit vel diam a lacinia. Vivamus suscipit vulputate rhoncus.
 
 Quisque viverra a enim nec euismod. Nulla hendrerit tellus eget tincidunt consequat. Donec vel eleifend nibh. Pellentesque ac lorem eget sapien efficitur porta venenatis id nisi. Pellentesque molestie, odio at convallis rutrum, enim mi imperdiet odio, sit amet viverra ex enim in magna. Donec rutrum mauris a ex sodales auctor. Etiam nec condimentum orci. Suspendisse tempor posuere mi id fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a nunc nec risus imperdiet vehicula non at metus. Suspendisse potenti. Duis metus nibh, vestibulum vitae pretium et, lobortis quis orci. Aenean gravida sapien ut fermentum facilisis. In suscipit consequat tortor, commodo mollis sem imperdiet nec. Nullam vehicula diam quis varius consequat.
