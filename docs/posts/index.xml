@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alek Sung</title>
-    <link>https://asungy.github.io/</link>
-    <description>Recent content on Alek Sung</description>
+    <title>Posts on Alek Sung</title>
+    <link>https://asungy.github.io/posts/</link>
+    <description>Recent content in Posts on Alek Sung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Feb 2024 00:24:11 -0500</lastBuildDate>
-    <atom:link href="https://asungy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://asungy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://asungy.github.io/posts/my-first-post/</link>
